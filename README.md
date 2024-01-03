@@ -17,3 +17,6 @@ Please note that there is no requirement check for feat. Nothing prevents you to
 | Heavy Armor Master        | Heavy Armor proficiency           |
 | Medium Armor Master       | Medium Armor proficiency          |
 
+## Known issues
+
+It seems that Variant Human race doesn't appear if several feat PAKs are installed, even if only one is activated.

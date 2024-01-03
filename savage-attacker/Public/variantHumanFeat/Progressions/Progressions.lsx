@@ -9,7 +9,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="VariantHuman"/>
-                    <attribute id="PassivesAdded" type="LSString" value="VariantHumanFeat;SavageAttacker"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SavageAttacker"/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,1,1);SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1)"/>
                     <attribute id="TableUUID" type="guid" value="781ce817-265a-4926-96d8-65f4c1dacb2a"/>
