@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<!-- <node id="GameObjects">
+					<attribute id="MapKey" type="22" value="c4a333ea-6778-4c88-9d58-87be51db3d8d" />
+					<attribute id="Name" type="23" value="VARIANT_HUMAN_MALE" />
+					<attribute id="CharacterVisualResourceID" type="22" value="41d177c8-0084-4f24-b29e-6dade1d9e0b3" />
+					<attribute id="Race" type="31" value="53474e34-11d7-43cc-9598-16f7667ff854" />
+					<attribute id="EquipmentRace" type="31" value="7d73f501-f65e-46af-a13b-2cacf3985d05" />
+					<attribute id="Flag" type="4" value="0" />
+					<attribute id="GeneratePortrait" type="23" value="Icon_Human_Male" />
+					<attribute id="Icon" type="22" value="c0807a07-7e67-6f66-31d8-437c234a42e9-_(Icon_Human_Male)" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="ParentTemplateId" type="22" value="f0930afd-8be6-410e-bae3-b0253262f861" />
+					<attribute id="SpellSet" type="22" value="CommonPlayerActions" />
+					<attribute id="Stats" type="22" value="Human_Commoner" />
+					<attribute id="Type" type="22" value="character" />
+					<attribute id="_OriginalFileVersion_" type="32" value="144115207403209023" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="31" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="31" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="31" value="1063224a-a5ab-41b1-b309-0ac730e4e8ce" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="22" value="58364887-30e4-412d-8a8a-e32760c9018e" />
+					<attribute id="Name" type="23" value="VARIANT_HUMAN_FEMALE" />
+					<attribute id="CharacterVisualResourceID" type="22" value="fa55df8b-212f-4dd8-bd6e-1a78c6f06ea5" />
+					<attribute id="Race" type="31" value="53474e34-11d7-43cc-9598-16f7667ff854" />
+					<attribute id="EquipmentRace" type="31" value="7d73f501-f65e-46af-a13b-2cacf3985d05" />
+					<attribute id="Flag" type="4" value="0" />
+					<attribute id="GeneratePortrait" type="23" value="Icon_Human_Female" />
+					<attribute id="Icon" type="22" value="d451afbb-b490-b442-e56b-c038d6cb39a7-_(Icon_Human_Female)" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="ParentTemplateId" type="22" value="15daa7bd-9af6-4aea-8d61-a82dbf395670" />
+					<attribute id="SpellSet" type="22" value="CommonPlayerActions" />
+					<attribute id="Stats" type="22" value="Human_Commoner" />
+					<attribute id="Type" type="22" value="character" />
+					<attribute id="_OriginalFileVersion_" type="32" value="144115188075855903" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="31" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="31" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="31" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node> -->
+			</children>
+		</node>
+	</region>
+</save>
