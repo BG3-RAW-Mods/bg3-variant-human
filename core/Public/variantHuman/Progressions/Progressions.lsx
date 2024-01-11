@@ -4,19 +4,7 @@
     <region id="Progressions">
         <node id="root">
             <children>
-				<!-- Human -->
-                <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Dexterity,1);Ability(Constitution,1);Ability(Intelligence,1);Ability(Wisdom,1);Ability(Charisma,1)ActionResource(Movement,9,0)"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="Human"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
-                    <attribute id="TableUUID" type="guid" value="4b6e7ec9-145b-4a95-9d8a-b2181de2749e"/>
-                    <attribute id="UUID" type="guid" value="dbde4d66-d3e4-4c3f-ae87-fd6e2d1cd276"/>
-                </node>                
-                
-                <!-- Variant Human Race -->
+                <!-- Variant Human -->
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/>
                     <attribute id="Level" type="uint8" value="1"/>
@@ -27,38 +15,6 @@
                     <attribute id="TableUUID" type="guid" value="781ce817-265a-4926-96d8-65f4c1dacb2a"/>
                     <attribute id="UUID" type="guid" value="d1fc38a1-5116-4498-8196-851ac04c252a"/>
                 </node>
-
-                <!-- Human with subclasses -->
-                <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="Human"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
-                    <attribute id="TableUUID" type="guid" value="0eb594cb-8820-4be6-a58d-8be7a1a98fba"/>
-                    <attribute id="UUID" type="guid" value="3214e617-5e50-470c-82b7-fc2f680f9def"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Dexterity,1);Ability(Constitution,1);Ability(Intelligence,1);Ability(Wisdom,1);Ability(Charisma,1)"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="StandardHuman"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
-                    <attribute id="TableUUID" type="guid" value="567a9600-05b6-4b53-b801-86a170a8b359"/>
-                    <attribute id="UUID" type="guid" value="632009e6-a46e-48ae-b7be-6e5e736c35cc"/>
-                </node>                
-                <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="VariantHuman"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="ProgressionType" type="uint8" value="2"/>
-                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,1,1);SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1)"/>
-                    <attribute id="TableUUID" type="guid" value="e4847550-62e8-477f-9d50-feacc432b8b2"/>
-                    <attribute id="UUID" type="guid" value="81b37f43-7f02-492d-9337-20cebb70daab"/>
-                </node>                
             </children>
         </node>
     </region>

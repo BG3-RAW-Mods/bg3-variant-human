@@ -1,11 +1,8 @@
-# Variant Human Feat
+# Variant Human
 
-Requires mod: 
-- 5eRules
+You have to install variantHumanCore.pak file, it contains everything but level 1 feat.
 
-This adds a level 1 feat for variant human race.
-
-You must choose one pak and installs it after mod 5eRules.
+Then, you must choose one feat pak and installs it after variantHumanCore.
 
 Please note that there is no requirement check for feat. Nothing prevents you to choose Heavy Armour feat for a human wizard:
 
@@ -19,4 +16,4 @@ Please note that there is no requirement check for feat. Nothing prevents you to
 
 ## Known issues
 
-It seems that Variant Human race doesn't appear if several feat PAKs are installed, even if only one is activated.
+It seems that Variant Human race doesn't appear if several feat PAKs are installed, even if only one is activated. So make sure to install only one at a time, and permanently delete it before installing another one.
