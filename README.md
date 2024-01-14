@@ -1,8 +1,23 @@
 # Variant Human
 
-You have to install variantHumanCore.pak file, it contains everything but level 1 feat.
+You have to install variantHumanCore.pak file, it contains everything but most feats.
 
-Then, you must choose one feat pak and installs it after variantHumanCore.
+These feats can be selected when creating a character:
+- Actor
+- Alert
+- Charger
+- Defensive Duelist
+- Durable
+- Heavily Armored
+- Heavy Armor Master
+- Lightly Armored (dexterity bonus)
+- Medium Armor Master
+- Moderately Armored (dexterity bonus)
+- Resilient (Constitution)
+- Savage Attacker
+- Tough
+
+If you want another one, you must choose one feat pak and installs it after variantHumanCore. When creating a character, select None for Feat as it will automatically included within Variant Human.
 
 Please note that there is no requirement check for feat. Nothing prevents you to choose Heavy Armour feat for a human wizard:
 
@@ -13,6 +28,11 @@ Please note that there is no requirement check for feat. Nothing prevents you to
 | Heavily Armored           | Medium Armor proficiency          |
 | Heavy Armor Master        | Heavy Armor proficiency           |
 | Medium Armor Master       | Medium Armor proficiency          |
+
+## Compatibility
+
+- Vemperen's Other Heads
+- Tav's Hairpack
 
 ## Known issues
 
