@@ -1,26 +1,10 @@
 # Variant Human
 
-You have to install variantHumanCore.pak file, it contains everything but most feats.
+This is a Variant Human race for Baldur's Gate 3. It doesn't replace Human, it is a new race.
 
-These feats can be selected when creating a character:
-- Actor
-- Alert
-- Charger
-- Defensive Duelist
-- Durable
-- Heavily Armored
-- Heavy Armor Master
-- Lightly Armored (dexterity bonus)
-- Medium Armor Master
-- Moderately Armored (dexterity bonus)
-- Resilient (Constitution)
-- Savage Attacker
-- Tough
+Level 1 feat can be selected at character creation. Some less important feats haven't been included. For half-feat, I have chosen the most relevant ability score increase. It may not fit everyone and it is possible to create 2 versions. For example, Athlete Strength, Athlete Dexterity
 
-If you want another one, you must choose one feat pak and installs it after variantHumanCore. When creating a character, select None for Feat as it will automatically included within Variant Human.
-
-Please note that there is no requirement check for feat. Nothing prevents you to choose Heavy Armour feat for a human wizard:
-
+Please note that these requirements are not listed in description. I might add them in a future release:
 | Feat                      | Requirement                       |
 | ------------------------- | --------------------------------- |
 | Defensive Duelist         | Dexterity: 13+                    |
@@ -29,11 +13,15 @@ Please note that there is no requirement check for feat. Nothing prevents you to
 | Heavy Armor Master        | Heavy Armor proficiency           |
 | Medium Armor Master       | Medium Armor proficiency          |
 
+## Installation
+
+You have to install variantHuman.pak file.
+
 ## Compatibility
 
 - Vemperen's Other Heads
 - Tav's Hairpack
 
-## Known issues
+## Credits
 
-It seems that Variant Human race doesn't appear if several feat PAKs are installed, even if only one is activated. So make sure to install only one at a time, and permanently delete it before installing another one.
+- BG3 Discord Modding community (Athera, lostsoul, hinikuya)
