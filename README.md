@@ -21,6 +21,8 @@ You have to install variantHuman.pak file.
 
 - Vemperen's Other Heads
 - Tav's Hairpack
+- Silver's Hair Pack
+- Vessnelle's Hair Collection
 
 ## Credits
 
