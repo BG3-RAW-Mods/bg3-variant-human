@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="3" revision="0" build="300"/>
+    <version major="4" minor="3" revision="0" build="300" />
     <region id="Progressions">
         <node id="root">
             <children>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/>
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Human" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="TableUUID" type="guid" value="4b6e7ec9-145b-4a95-9d8a-b2181de2749e" />
+                    <attribute id="UUID" type="guid" value="dbde4d66-d3e4-4c3f-ae87-fd6e2d1cd276" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="StandardHuman" />
+                    <attribute id="PassivesAdded" type="LSString" value="" />
+                    <attribute id="ProgressionType" type="uint8" value="2" />
+                    <attribute id="TableUUID" type="guid" value="c82f4ecb-69b2-4247-81bf-a7d21a54c439" />
+                    <attribute id="UUID" type="guid" value="7de9eeb4-bad0-4a2c-bec2-ce2036d14aa3" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="VariantHuman"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
