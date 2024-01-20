@@ -15,6 +15,7 @@
                     VariantHumanDungeonDelver,
                     VariantHumanDualWielder,
                     Durable,
+                    VariantHumanEldritchAdept,
                     ElementalAdept_Cold,
                     ElementalAdept_Fire,
                     ElementalAdept_Lightning,

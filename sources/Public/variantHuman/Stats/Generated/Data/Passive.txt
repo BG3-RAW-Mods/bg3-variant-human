@@ -315,3 +315,17 @@ new entry "VARIANT_HUMAN_SHARPSHOOTER"
 type "StatusData"
 using "VARIANT_HUMAN_FEAT"
 data "Passives" "Sharpshooter_AllIn;Sharpshooter_Bonuses"
+
+// Agonizing Blast
+new entry "VariantHumanEldritchAdept"
+type "PassiveData"
+data "DisplayName" "8a51267c-9380-4393-aead-2623636fc9d8;1"
+data "Description" "3d2c2172-f140-4a58-b89d-872d8d64711e;1"
+data "Properties" "IsHidden"
+data "StatsFunctors" "IF(not HasStatus('VARIANT_HUMAN_ELDRITCH_ADEPT',context.Source)):ApplyStatus(VARIANT_HUMAN_ELDRITCH_ADEPT,100,-1)"
+data "StatsFunctorContext" "OnCreate"
+
+new entry "VARIANT_HUMAN_ELDRITCH_ADEPT"
+type "StatusData"
+using "VARIANT_HUMAN_FEAT"
+data "Passives" "AgonizingBlast"
